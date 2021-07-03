@@ -1,4 +1,4 @@
-dancing
-singing
-sleeping
-programming
+*dancing
+*singing
+*sleeping
+*programming
