@@ -1,4 +1,3 @@
-*dancing
-*singing
-*sleeping
-*programming
+* dancing
+* singing
+* programming
